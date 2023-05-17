@@ -1,0 +1,21 @@
+.panel{
+    max-width: 1000px;
+    padding: 40px;
+    margin: revert-layer;
+    background: mediumpurple;
+}
+.text-center{
+    text-align: center;
+    color: black;
+}
+table{ width: 100%;}
+table,tr,td{
+    border: 05px solid black;
+}
+.btn{
+	background: blue;
+	color: skyblue;
+	padding: 02px 02px;
+	display: inline-block;
+	text-decoration: none;
+}
